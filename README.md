@@ -31,6 +31,4 @@ You can try out the Expense Tracker live [here](https://silver-kelpie-bc807b.net
 
 ## Installation
 
-To run the Expense Tracker locally, follow these steps:
-
-1. Clone the repository:
+Clone the repository:
